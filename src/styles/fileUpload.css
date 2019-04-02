@@ -1,0 +1,41 @@
+.upload-container{
+    margin: 20px;
+}
+
+.browse-wrapper{
+    position: relative;
+    height: 50vh;    
+    vertical-align: middle;
+    border-style: dashed !important;
+    border-width: 1px !important;
+    border-radius: 3px !important;
+}
+
+.browser-wrapper-pad{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+
+.browser-wrapper-pad>*{
+    margin: 10px;
+}
+
+.custom-btn{
+    border-style: solid;
+    border-color: #c6c6c6;
+}
+
+#submit-wrapper{
+    text-align: right;
+    margin: 0px 20px;
+}
+
+.custom-btn-submit{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #c6c6c6;
+    border-radius: 15px;
+    padding: 0px 10px;
+    font-weight: bold;
+}
